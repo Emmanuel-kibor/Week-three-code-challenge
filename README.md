@@ -45,7 +45,7 @@ theater.
  
  - This project was contributed by:
 
-        Roy Nzioki Ngei: https://github.com/RoyZiO
+        Emmanuel Kibor [https://github.com/Emmanuel-kibor]
 
 
 
